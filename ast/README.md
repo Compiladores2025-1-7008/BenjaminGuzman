@@ -26,6 +26,8 @@ Copiar y pegar el output en https://dreampuf.github.io/GraphvizOnline/
 - **Todos los lenguajes de programación necesitan un AST?** No, e.g., assembly no necesita, ¿porqué? ¿cuándo es conveniente?
 - Gran forma de aprender: Leer código de los demás, leer el código del módulo de AST de Go, Java, lo que sea. e.g., 
   qué pasa cuando en un Hashmap hay colisión de valores? Se crea un arreglo y se itera, pero...
+- Gran forma de aprender: Usar un debugger.
+- Pro tip: Con el correo institucional pueden sacar licencia de JetBrains
 
 ## Misceláneo
 
