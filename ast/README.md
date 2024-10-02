@@ -31,7 +31,7 @@ Copiar y pegar el output en https://dreampuf.github.io/GraphvizOnline/
 - Algo de actualidad:
   + Java 23 permite incluir Markdown dentro del Javadoc. [Video](https://youtu.be/kzjGp7LmW0I?si=E_duVE7yqNQ44kac&t=479). Cómo lo hicieron? Lo podrían replicar en su propio lenguaje?
   + En Java 23 hicieron rollback de un JEP (Qué es JEP o PEP, de python?) que modificaba la gramática de los strings.
-  + Ustedes podrían contribuir al desarrollo de Java! O de cualquier otro proyecto FOSS, es divertido, agrega mucho valor a su currículum. Además aprenden mucho. Inténtenlo! Y no sólo esto sino todo lo que quieran, no se queden con las ganas.
+  + Ustedes podrían contribuir al desarrollo de Java! O de cualquier otro proyecto FOSS, es divertido, agrega mucho valor a su currículum. Además aprenden mucho. Inténtenlo! Y no sólo esto sino todo lo que quieran, no se queden con las ganas. Se van a "arrepentir" más de lo que no hacen que de lo que hacen.
 
 ## Misceláneo
 
